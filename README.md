@@ -8,3 +8,7 @@ NOW we create a new branch update-readme
 changes is here
 
 changes here
+
+## Getting startted section
+
+to get start with issue for this proect 
